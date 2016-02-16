@@ -13,13 +13,3 @@ It is compatible with the free Starter Edition of Xamarin.
 
 ![screenshot](https://github.com/xamarin/mobile-samples/raw/master/Tasky/Screenshots/all-small.png "iOS and Android")
 
-
-Xamarin.Forms Version
----------------------
-The equivalent app written with [Xamarin.Forms](http://xamarin.com/forms) is
-called [Todo](https://github.com/xamarin/xamarin-forms-samples/tree/master/Todo).
-
-Authors
--------
-
-Bryan Costanich, Craig Dunn
