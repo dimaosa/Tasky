@@ -1,0 +1,30 @@
+﻿<Properties StartupItem="TaskyAndroid/TaskyAndroid.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TaskyiOS/TodoItemDialog.cs">
+    <Files>
+      <File FileName="TaskyAndroid/Properties/AndroidManifest.xml" Line="1" Column="1" />
+      <File FileName="TaskyAndroid/Properties/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="TaskyiOS/TodoItemDialog.cs" Line="1" Column="1" />
+      <File FileName="TaskyiOS/Info.plist" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Tasky" expanded="True">
+            <Node name="TaskyAndroid" expanded="True">
+              <Node name="Properties" expanded="True" />
+            </Node>
+            <Node name="TaskyiOS" expanded="True">
+              <Node name="TodoItemDialog.cs" selected="True" />
+            </Node>
+            <Node name="TaskySharedCode" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

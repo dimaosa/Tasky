@@ -1,0 +1,14 @@
+/Users/dimao/Downloads/Tasky/TaskyAndroid/obj/Debug/assemblies/TaskyAndroid.dll
+/Users/dimao/Downloads/Tasky/TaskyAndroid/obj/Debug/assemblies/System.dll
+/Users/dimao/Downloads/Tasky/TaskyAndroid/obj/Debug/assemblies/System.Xml.dll
+/Users/dimao/Downloads/Tasky/TaskyAndroid/obj/Debug/assemblies/Mono.Android.dll
+/Users/dimao/Downloads/Tasky/TaskyAndroid/obj/Debug/assemblies/Mono.Data.Sqlite.dll
+/Users/dimao/Downloads/Tasky/TaskyAndroid/obj/Debug/assemblies/System.Data.dll
+/Users/dimao/Downloads/Tasky/TaskyAndroid/obj/Debug/assemblies/System.Core.dll
+/Users/dimao/Downloads/Tasky/TaskyAndroid/obj/Debug/assemblies/mscorlib.dll
+/Users/dimao/Downloads/Tasky/TaskyAndroid/obj/Debug/assemblies/System.Runtime.Serialization.dll
+/Users/dimao/Downloads/Tasky/TaskyAndroid/obj/Debug/assemblies/System.ServiceModel.Internals.dll
+/Users/dimao/Downloads/Tasky/TaskyAndroid/obj/Debug/assemblies/System.Transactions.dll
+/Users/dimao/Downloads/Tasky/TaskyAndroid/obj/Debug/assemblies/System.Numerics.dll
+/Users/dimao/Downloads/Tasky/TaskyAndroid/obj/Debug/assemblies/Mono.Data.Tds.dll
+/Users/dimao/Downloads/Tasky/TaskyAndroid/obj/Debug/assemblies/Mono.Security.dll
